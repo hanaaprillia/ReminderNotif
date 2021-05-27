@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReminderWork</string>
+    <string name="tugas">Tugas</string>
+    <string name="waktu">Waktu</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="judul">Judul</string>
+</resources>
